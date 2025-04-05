@@ -175,6 +175,8 @@ The following projects are no longer maintained actively but are still worth men
 
 ## Miscellaneous
 
+Reviews por Jadson Cardoso
+
 ### Contributing
 
 See the [Contribution Guide](.github/CONTRIBUTING.md) for details on how to contribute.
